@@ -1,2 +1,2 @@
 # Freelancer
-Página web simple y responsiva hecha con la finalidad de repasar y practicar HTML Y CSS.
+Página web simple y responsivo hecho con HTML Y CSS.
